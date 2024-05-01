@@ -1,5 +1,6 @@
 - Olá, sou a Carolina e seja bem-vindo ao meu repositório!👋 
-- Sou uma entusiasta de dados e uma aprendiz incansável no mundo da análise de dados. Minha paixão é transformar números brutos em insights brilhantes! 📊
+- Sou uma entusiasta em BI e uma aprendiz incansável no mundo da análise de dados.
+- Descobri minha vocação em transformar números brutos em insights! 📊
 - Aos poucos realizei o upload de meus projetos para servirem de portifólio.
   
 <!---
