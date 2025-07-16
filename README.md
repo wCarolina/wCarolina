@@ -1,5 +1,5 @@
-## Olá, explorador digital! 😁
-Eu sou a Carolina e seja bem-vindo ao meu repositório 📚
+## Olá! 😁
+Sou a Carolina e seja bem-vindo ao meu repositório 📚
 - Este espaço é mais do que um portfólio, é o local em que os dados revelam seus segredos e geram insights incríveis 💡
 - Sinta-se à vontade para explorá-lo 
 
